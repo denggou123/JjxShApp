@@ -23,11 +23,11 @@
        <permission name="camera"/>
        <access origin="*"/>
        <feature name="ajpush">
-       <param name="app_key" value="极光key"/>
+       <param name="app_key" value="65115fc493e8ce278e60e75e"/>
        <param name="channel" value="developer_default"/>
        </feature>
        <feature name="aMapLBS">
-       <param name="android_api_key" value="高德"/>
+       <param name="android_api_key" value="e1f341a4a7512099aee551895b2306aa"/>
        <param name="ios_api_key" value=" "/>
        </feature>
        <preference name="debug" value="false"/>
