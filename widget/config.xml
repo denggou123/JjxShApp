@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><widget id="A6103194247355" security="false" version="1.1.0">
 <name>商家端</name>
 <description>商家端</description>
-       <author email="" href="https://shop.yun-neng.com">商家端</author>       <!--微信:HEIGEZX提供支持-->
+       <author email="" href="https://shop.jxj8888.com">商家端</author>       <!--微信:HEIGEZX提供支持-->
        <content src="index.html"/>
        <preference name="windowBackground" value=""/>
        <preference name="autoLaunch" value="true"/>
